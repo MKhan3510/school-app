@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.4.3"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "PORT=8000 react-scripts start",
     "build": "react-scripts build",
